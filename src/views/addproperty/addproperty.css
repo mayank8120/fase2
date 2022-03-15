@@ -1,0 +1,137 @@
+/*--dashboard--*/
+
+.bg-gradient:hover {
+  color: #fff;
+}
+.add-property .custom-control-input {
+  position: inherit;
+}
+.add-property .custom-control-label::before {
+  position: absolute;
+  top: 0.23rem;
+  display: block;
+  width: 1rem;
+  height: 1rem;
+  pointer-events: none;
+  content: "";
+  border: solid 1px;
+  background-color: #fff;
+  border-color: #00a6d7;
+}
+.add-property {
+  max-width: 721px;
+  margin: 0 auto;
+  padding-top: 32px;
+}
+.add-property label {
+  font-weight: 600;
+  color: #1d2337;
+  font-size: 14px;
+}
+.add-property .btnsSec .btn.btn-primary {
+  padding: 7px 17px;
+  margin-top: 10px;
+  border-radius: 8px;
+}
+.add-property .form-control {
+  height: 46px;
+  border-color: rgba(134, 164, 186, 0.25);
+  border-radius: 8px;
+}
+
+.add-property .custom-select {
+  height: 46px;
+  border-color: #cfd3dc;
+  border-radius: 0.75rem;
+}
+.add-property .card {
+  border: none;
+  background: transparent;
+}
+.add-property .form-control:focus {
+  border-color: #0da5d8 !important;
+
+  box-shadow: none;
+}
+.add-property .custom-select:focus {
+  border-color: #cfd3dc;
+  outline: none;
+  box-shadow: none;
+}
+.add-property .logoSelect {
+  text-align: center;
+  padding: 7px;
+}
+.add-property .form-control::placeholder {
+  color: rgba(29, 35, 55, 0.4) !important;
+  font-weight: 400;
+}
+
+.add-property .bt.btn {
+  padding: 13px 56px 13px 56px;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 700;
+}
+.add-property .breadcrumb {
+  margin-bottom: 0rem;
+}
+.add-property .topHeading {
+  margin-bottom: 33px;
+}
+.add-property .form-group {
+  margin-bottom: 32px;
+}
+.add-property .removeProperty {
+  color: #f47646;
+  font-weight: 700;
+}
+
+.add-property .priceSelect {
+  padding-right: 30px;
+  -webkit-appearance: none;
+  appearance: none;
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAACOSURBVHgB7ZC5DYAwDEUdzjXCKGmQ2IGGNajoGIOGHZBoGIXMAeKwxRlIKijzm8j2/y9xAKw+i92Lsm77Bc9hnESRJVKZVQ0H3+1onqdxdPQdlUdj4AEaCwq8w3z3nPKUapwF8x00sgMiQupfYTmgx7jCddsGwVKy7V1n+LnaC6CBgClsBKgQ+lR92OonrcVhRdT0zW+OAAAAAElFTkSuQmCC)
+    #fff;
+  background-color: white;
+  background-position-x: 0%;
+  background-position-y: 0%;
+  background-repeat: repeat;
+  background-size: auto;
+  background-clip: border-box;
+  background-repeat: no-repeat;
+  background-size: 18px;
+  background-position: center right 16px;
+}
+.add-property textarea.form-control {
+  height: 80px;
+}
+.add-property .company-image {
+  position: relative;
+  transition: all 0.3s linear;
+  cursor: pointer;
+}
+.add-property .company-image span {
+  display: block;
+  font-weight: 600;
+  padding-top: 13px;
+  font-size: 14px;
+  border: 1px dashed #0da5d8;
+  border-radius: 8px;
+  background: #ffffff;
+  width: 80px;
+  height: 80px;
+  padding-bottom: 13px;
+}
+.add-property .company-image input {
+  display: block;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: 1;
+  cursor: pointer;
+  opacity: 0;
+  height: 100%;
+}

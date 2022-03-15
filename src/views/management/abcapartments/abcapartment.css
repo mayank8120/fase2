@@ -1,0 +1,55 @@
+.abcaprtments .apartmentBox {
+  background-color: #fff;
+  padding: 16px 16px 42px;
+  border-radius: 8px;
+  position: relative;
+}
+.abcaprtments .imageBox img {
+  max-width: 120px !important;
+  height: 120px;
+  margin: 0 auto;
+  border-radius: 50%;
+}
+.abcaprtments .imageBox {
+  margin-top: 8px;
+}
+.editBtn,
+a.editBtn:hover {
+  position: absolute;
+  top: 16px;
+  right: 18px;
+  color: #00a6d7;
+  cursor: pointer;
+}
+.abcaprtments .propertyCode {
+  margin-top: 8px;
+}
+.abcaprtments .brdrLine2 {
+  border-bottom: 1px solid #e7edf1;
+  margin: 16px -16px 24px;
+}
+.abcaprtments .detailList span {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  margin-right: 10px;
+}
+.abcaprtments .detailList span img {
+  max-width: 12px;
+}
+.abcaprtments .detailList {
+  margin-bottom: 25px;
+}
+.abcaprtments .detailList:last-child {
+  margin-bottom: 0px;
+}
+.abcaprtments .sdd canvas {
+  width: 168px !important;
+  height: 168px !important;
+}
+.abcaprtments .statementBox {
+  padding: 16px 16px 24px !important;
+}
+.abcaprtments .revenueBox {
+  padding: 16px 16px 16px !important;
+}

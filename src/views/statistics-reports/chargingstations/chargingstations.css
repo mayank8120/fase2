@@ -1,0 +1,65 @@
+.charging-session .stationBreadcrumb .breadcrumb {
+  margin-bottom: 13px;
+}
+.charging-session .filterSec {
+  background-color: #fff;
+  padding: 8px 16px;
+  margin-top: 24px;
+}
+.charging-session .filterSec .greenColor {
+  margin-left: 0.5rem;
+}
+.charging-session .dateFrom {
+  margin-left: 34px;
+}
+.charging-session .dateFrom label {
+  min-width: 60px;
+  margin-right: 8px;
+}
+.charging-session .toMar {
+  margin: 0 8px 0 16px;
+}
+.charging-session .searchBar input {
+  padding: 4px 4px 4px 40px;
+}
+.charging-session .searchBar img {
+  position: absolute;
+  margin-left: 16px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.charging-session .searchBar {
+  margin-left: 14px;
+}
+.charging-session .energyConsump img {
+  padding: 0 15px;
+}
+.charging-session .marginLeft24 {
+  margin-left: 24px;
+}
+.charging-session .searchBar span svg {
+  position: absolute;
+  left: 18px;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+/*--dropdown--*/
+
+/*double css*/
+.charging-session .pad-15-16 {
+  padding: 15px 0 15px 16px !important;
+}
+.charging-session .pad-19-0-16 {
+  padding: 19px 0 16px 16px !important;
+}
+.charging-session .showbutton {
+  border: 1px solid #d8e1e9;
+  background: #ffff;
+  padding: 6px 24px;
+  font-size: 14px;
+  font-weight: 600;
+  color: #1d2337;
+  border-radius: 4px;
+  margin-left: 0px;
+}

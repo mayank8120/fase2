@@ -1,0 +1,209 @@
+.frankcompany .apartmentBox {
+  background-color: #fff;
+  padding: 16px;
+  border-radius: 8px;
+  position: relative;
+}
+.frankcompany .imageBox img {
+  max-width: 120px !important;
+  height: 120px;
+  margin: 0 auto;
+  border-radius: 50%;
+}
+.frankcompany .imageBox {
+  margin-top: 8px;
+}
+.frankcompany a.editBtn,
+a.editBtn:hover {
+  position: absolute;
+  top: 16px;
+  right: 18px;
+  color: #00a6d7;
+  cursor: pointer;
+}
+.frankcompany .propertyCode {
+  margin-top: 8px;
+}
+.frankcompany .brdrLine2 {
+  border-bottom: 1px solid #e7edf1;
+  margin: 16px -16px 24px;
+}
+.frankcompany .detailList span {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  margin-right: 10px;
+  line-height: 16px;
+}
+.frankcompany .detailList span img {
+  max-width: 12px;
+}
+.frankcompany .detailList {
+  margin-bottom: 25px;
+}
+.frankcompany .detailList:last-child {
+  margin-bottom: 0px;
+}
+.frankcompany .imageTransparent {
+  position: relative;
+  border: 1px solid #ddd;
+}
+.frankcompany .bgwhite {
+  background-color: #fff;
+}
+.frankcompany .bgth {
+  background: #f5f7ff;
+}
+.frankcompany .frankuser td {
+  padding: 18px 10px;
+}
+.frankcompany .statementBox {
+  padding: 16px 16px 24px !important;
+}
+.frankcompany .sdd canvas {
+  width: 168px !important;
+  height: 168px !important;
+}
+.frankcompany .revenueBox {
+  padding: 16px 16px 16px !important;
+}
+.frankcompany .rounderSearchBar {
+  margin-left: 0;
+}
+.frankcompany .whiteBackground .rounderSearchBar svg {
+  left: 9.5px;
+}
+.frankcompany .rounderSearchBar svg {
+  position: absolute;
+  left: 20px;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+.frankcompany .whiteBackground .rounderSearchBar input {
+  padding: 15px 23px 15px 25px;
+}
+.frankcompany .tableEve .rounderSearchBar input {
+  width: 100%;
+  height: 32px;
+  border-radius: 8px;
+}
+
+.frankcompany .whiteBackground .rounderSearchBar input {
+  padding: 15px 23px 15px 25px;
+}
+.frankcompany .tableEve .rounderSearchBar input {
+  width: 100%;
+  height: 32px;
+  border-radius: 8px;
+}
+.frankcompany .tableEve input {
+  width: 62px;
+  border: 1px solid #e7edf1;
+  border-radius: 8px;
+}
+.frankcompany .rounderSearchBar input {
+  background: #ffffff;
+  box-shadow: none;
+  border-radius: 131px;
+  padding: 15px 23px 15px 52px;
+  width: 433px;
+  height: 44px;
+}
+.frankcompany .width56 {
+  max-width: 56px;
+}
+.frankcompany .chrgintrends .tableEve th {
+  font-size: 12px;
+  color: #6e6893;
+}
+.frankcompany .tableEve th {
+  font-size: 14px;
+  color: #252840;
+}
+.frankcompany .padding-19-4-8 {
+  padding: 19px 0 8px 24px !important;
+}
+.frankcompany .padding-4-8 {
+  padding: 0px 0px 12px 24px !important;
+}
+.frankcompany .padding-19-22-24 {
+  padding: 19px 0px 22px 24px !important;
+}
+.frankcompany .tableEve input {
+  width: 62px;
+  border: 1px solid #e7edf1;
+  border-radius: 8px;
+}
+/*start toggle*/
+.frankcompany .custom-switch .custom-control-label::before {
+  width: 56px;
+  height: 32px;
+  border-radius: 119px;
+}
+.frankcompany .custom-control-label::before {
+  border-color: #e7edf1;
+  box-shadow: none;
+}
+.frankcompany .custom-control-label::before {
+  top: 0;
+}
+html:not([dir="rtl"]) .custom-switch .custom-control-label::after {
+  left: calc(-2.25rem + 3px);
+}
+.frankcompany .custom-switch .custom-control-label::after {
+  width: 20px;
+  height: 20px;
+  background-color: #86a4ba;
+  border-radius: 50%;
+  background-color: #86a4ba;
+  left: 6px;
+}
+.frankcompany .custom-control-input:checked ~ .custom-control-label::before {
+  color: #fff;
+  border-color: #e7edf1;
+  background-color: #fff;
+  box-shadow: none;
+}
+.frankcompany
+  .custom-switch
+  .custom-control-input:checked
+  ~ .custom-control-label::after {
+  background-color: #fff;
+  -webkit-transform: translateX(0.75rem);
+  transform: translateX(1.8rem);
+  background: #0da5d8;
+  border: 1px solid rgba(63, 94, 240, 0.1);
+}
+/*end toggle*/
+
+.frankcompany .borderBottomNone {
+  border-bottom: none !important;
+}
+
+.frankcompany .showbutton {
+  border: 1px solid #d8e1e9;
+  background: #ffff;
+  padding: 6px 24px;
+  font-size: 14px;
+  font-weight: 600;
+  color: #1d2337;
+  border-radius: 4px;
+  margin-left: 0px;
+}
+.frankcompany .propertiestable .showbutton {
+  margin-left: 43px;
+}
+.frankcompany .width128 {
+  max-width: 128px;
+}
+.frankcompany .propertiestable .tableEve thead {
+  background-color: #ffffff;
+}
+.frankcompany .pad-15-16 {
+  padding: 15px 0 15px 15px !important;
+}
+
+.frankcompany .cs canvas {
+  height: 93px !important;
+}

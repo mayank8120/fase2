@@ -1,0 +1,127 @@
+.station-inventory .marginLeft24 {
+  margin-left: 24px;
+}
+.station-inventory .filterSection h5 {
+  margin-left: 8px;
+}
+.station-inventory .rounderSearchBar {
+  margin-left: 9px;
+}
+.station-inventory .tableEve h4 a {
+  color: #0da2d6;
+}
+
+.station-inventory .statusTag {
+  display: inline-block;
+  border-radius: 4px;
+  width: 70px;
+  height: 24px;
+  line-height: 24px;
+  text-align: center;
+}
+.station-inventory .statusTag.new {
+  background: #ff9a32;
+  color: #fff;
+}
+.station-inventory .statusTag.solving {
+  background: rgba(17, 161, 253, 0.1);
+  color: #11a1fd;
+}
+.station-inventory .statusTag.solved {
+  background: rgba(15, 238, 159, 0.1);
+  color: #0fee9f;
+}
+.station-inventory .tagsBlock {
+  border-radius: 4px;
+  width: 70px;
+  height: 24px;
+  line-height: 24px;
+}
+.station-inventory .tagsBlock.active {
+  background: #bffab2;
+  color: #3c9e26;
+}
+.station-inventory .tagsBlock.inactive {
+  background: #ddd;
+  color: #777;
+}
+.station-inventory .listStyleNone {
+  margin: 0;
+  padding: 0;
+}
+.station-inventory .listStyleNone li {
+  list-style-type: none;
+}
+.station-inventory .statusList li {
+  margin-bottom: 8px;
+}
+.station-inventory .statusList li:last-child {
+  margin-bottom: 0px;
+}
+.station-inventory .statusList:last-child {
+  margin-left: 20px;
+}
+.station-inventory .priceSettingButton {
+  display: inline-block;
+  border: 1px solid rgba(41, 49, 125, 0.1);
+  border-radius: 131px;
+  padding: 5px 10px;
+  line-height: 24px;
+}
+.station-inventory .editDeleteIcon svg:last-child {
+  margin-left: 17px;
+}
+.station-inventory .tableEve .rounderSearchBar input {
+  width: 100%;
+  height: 44px;
+}
+
+/*doubel css*/
+.station-inventory .pad-11-4 {
+  padding: 11px 0px 4px 11px !important;
+}
+.station-inventory .pad-4-11 {
+  padding: 4px 0px 11px 11px !important;
+}
+.station-inventory .borderBottomNone {
+  border-bottom: none !important;
+}
+.station-inventory .max-width-145 {
+  max-width: 145px;
+  min-width: 145px;
+}
+.station-inventory .max-width-81 {
+  max-width: 81px;
+  min-width: 81px;
+}
+.station-inventory .max-width-85 {
+  max-width: 85px;
+  min-width: 85px;
+}
+.station-inventory .max-width-75 {
+  max-width: 75px;
+  min-width: 75px;
+}
+.station-inventory .max-width-163 {
+  max-width: 163px;
+  min-width: 163px;
+}
+.station-inventory .max-width-99 {
+  max-width: 99px;
+  min-width: 99px;
+}
+.station-inventory .tableEve .rounderSearchBar input {
+  width: 100%;
+  height: 32px;
+  border-radius: 8px;
+}
+.station-inventory .searchBarIcon .rounderSearchBar svg {
+  left: 9.5px;
+}
+.station-inventory .rounderSearchBar svg {
+  position: absolute;
+
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+}

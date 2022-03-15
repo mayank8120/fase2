@@ -1,0 +1,258 @@
+.pricing-setting .time ul li {
+  list-style: none;
+  margin-bottom: 16px;
+}
+.pricing-setting .price-setting {
+  box-shadow: 0px 0px 12px rgba(230, 241, 247, 0.25);
+  background-color: #fff;
+  border-radius: 8px;
+  padding: 24px 24px 32px;
+}
+.pricing-setting .pricingBreadcrumb .breadcrumb {
+  margin-bottom: 8px;
+}
+.pricing-setting .currentPrice {
+  background-color: #fff;
+  border-radius: 8px;
+  padding: 24px 24px;
+}
+.pricing-setting .opacity2 {
+  opacity: 0.2;
+}
+.pricing-setting .time ul li:last-child {
+  margin-bottom: 0px;
+}
+.pricing-setting .pricingList input {
+  width: 62px;
+  border: 1px solid #e7edf1;
+  border-radius: 8px;
+}
+.pricing-setting .pdt select {
+  width: 140px;
+  height: 32px;
+  border-radius: 8px;
+}
+.pricing-setting .medium-border {
+  margin: 0 8px;
+  border-bottom: 1px solid #86a4ba;
+  width: 8px;
+}
+.pricing-setting span.days {
+  width: 161px;
+  display: inline-block;
+}
+.pricing-setting .pdt #ccmontha {
+  margin-left: 50px;
+}
+.pricing-setting .saveBtn {
+  text-align: right;
+  padding: 9px 15px;
+  float: right;
+  margin-bottom: 32px;
+  border-radius: 8px;
+}
+.pricing-setting .datatable-pricing {
+  clear: both;
+}
+.pricing-setting .priceTop {
+  margin-top: 32px;
+}
+.pricing-setting .rightBorder {
+  border-right: 1px solid #e7edf1;
+}
+.pricing-setting .brdrLinePricing {
+  border: 1px solid #e7edf1;
+}
+.pricing-setting .form-control:focus {
+  box-shadow: none;
+}
+.pricing-setting .brdrLinePricing {
+  border-bottom: 1px solid #e7edf1;
+  margin: 8px 0 24px;
+}
+.pricing-setting .custom-switch .custom-control-label::before {
+  width: 56px;
+  height: 32px;
+  border-radius: 119px;
+}
+.custom-control-input:checked ~ .custom-control-label::before {
+  color: #fff;
+  border-color: #e7edf1;
+  background-color: #fff;
+}
+.custom-switch .custom-control-label::after {
+  top: 6px;
+  width: 20px;
+  height: 20px;
+  background-color: #9da5b1;
+  border-radius: 50%;
+  background-color: #86a4ba;
+  left: 6px;
+}
+html:not([dir="rtl"]) .custom-switch .custom-control-label::after {
+  left: calc(-2.25rem + 3px);
+}
+.custom-control-label::before {
+  border-color: #e7edf1;
+  box-shadow: none;
+}
+.custom-switch .custom-control-input:checked ~ .custom-control-label::after {
+  background-color: #fff;
+  -webkit-transform: translateX(0.75rem);
+  transform: translateX(1.8rem);
+  background: #3f5ef0;
+  border: 1px solid rgba(63, 94, 240, 0.1);
+}
+.custom-control-label::before {
+  top: -4px;
+}
+/*--table section--*/
+.stationBreadcrumb .breadcrumb {
+  margin-bottom: 13px;
+}
+.filterSec {
+  background-color: #fff;
+  padding: 12px 16px;
+  margin-top: 24px;
+}
+.searchBar input {
+  padding: 4px 4px 4px 40px;
+  height: 40px;
+}
+.searchBar img {
+  position: absolute;
+  margin-left: 16px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.searchBar {
+  margin-left: 14px;
+}
+.energyConsump img {
+  padding: 0 15px;
+}
+.marginLeft24 {
+  margin-left: 24px;
+}
+.filterBtn {
+  padding: 7px 13px;
+  background-color: #fff;
+  border: 1px solid #e7edf1;
+}
+.filterBtn:focus,
+.filterBtn:hover {
+  background-color: transparent;
+  border-color: transparent;
+}
+.filterBtn p {
+  margin-left: 8px;
+}
+.width432 {
+  width: 432px;
+}
+.createPromo {
+  background: #3f5ef0;
+  border-radius: 8px;
+  padding: 9px 15px;
+  color: #fff;
+  line-height: 16px;
+  border-color: #3f5ef0;
+  line-height: 21px;
+  height: 40px;
+}
+.saveBtn {
+  background-color: #3f5ef0;
+  border-color: #3f5ef0;
+}
+.statusPrice {
+  padding: 4px 8px;
+  line-height: 20px;
+  border-radius: 4px;
+}
+.statusPrice.active {
+  background: rgba(121, 222, 180, 0.1);
+  color: #0fee9f;
+}
+.statusPrice.soon {
+  background: rgba(17, 161, 253, 0.1);
+  color: #11a1fd;
+}
+.statusPrice.hold {
+  background: rgba(255, 154, 50, 0.1);
+  color: #ff9a32;
+}
+.statusPrice.ended {
+  background: rgba(29, 35, 55, 0.05);
+  color: rgba(29, 35, 55, 0.7);
+}
+.searchBar span svg {
+  position: absolute;
+  left: 18px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+/*double css*/
+.opacity7 {
+  opacity: 0.7;
+}
+.pad-11-16 {
+  padding: 11px 0 11px 16px !important;
+}
+.pad-16-16 {
+  padding: 16px 0 16px 16px !important;
+}
+.pad-19-16 {
+  padding: 19px 0 16px 16px !important;
+}
+.pricingList input::placeholder {
+  color: #1d2337;
+}
+
+.pricing-setting .regular-box {
+  background: #ffffff;
+  border: 1px solid #e9e9e9;
+  box-sizing: border-box;
+  box-shadow: 0px 0px 12px rgb(230 241 247 / 25%);
+  border-radius: 8px;
+  padding: 16px;
+}
+.pricing-setting .default-regular-hour {
+  background: #ffffff;
+  box-shadow: 0px 0px 12px rgb(230 241 247 / 25%);
+  border-radius: 8px;
+  padding: 20px;
+}
+.pricing-setting .editDeleteIcon svg:last-child {
+  margin-left: 18px;
+}
+.pricing-setting .customprietable td {
+  vertical-align: top;
+}
+.pricing-setting th {
+  font-size: 14px;
+  font-weight: 600;
+  color: #6e6893;
+  text-transform: uppercase;
+}
+.regulat-modal input {
+  width: 60px;
+  height: 40px;
+}
+.width60 {
+  width: 60px;
+}
+.height40 {
+  height: 40px;
+}
+.borderbottommodal {
+  border-bottom: 1px solid #e9e9e9;
+}
+.modal-body button {
+  border: none;
+  color: #fff;
+  padding: 11px;
+  text-align: center;
+  width: 100%;
+  border-radius: 8px;
+}

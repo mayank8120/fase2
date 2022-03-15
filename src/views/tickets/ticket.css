@@ -1,0 +1,137 @@
+.tickets .marginLeft24 {
+  margin-left: 24px;
+}
+.tickets .filterSection h5 {
+  margin-left: 8px;
+}
+.tickets .rounderSearchBar {
+  margin-left: 9px;
+}
+.tickets .bgWhitebutton {
+  background-color: #fff !important;
+  color: #29317d;
+  background: none;
+}
+.tickets .bgWhitebutton:hover {
+  background-color: #fff !important;
+  color: #29317d;
+  background: none;
+}
+.tickets .bgWhite {
+  background: #ffffff;
+  border-top: 2px solid rgba(230, 241, 246);
+}
+
+.tickets .statusTag {
+  display: inline-block;
+  border-radius: 4px;
+  width: 70px;
+  height: 24px;
+  line-height: 24px;
+  text-align: center;
+}
+.tickets .statusTag.new {
+  background: #ff9a32;
+  color: #fff;
+}
+.tickets .statusTag.solving {
+  background: rgba(17, 161, 253, 0.1);
+  color: #11a1fd;
+}
+.tickets .statusTag.solved {
+  background: rgba(15, 238, 159, 0.1);
+  color: #0fee9f;
+}
+.tickets .statusTag {
+  display: inline-block;
+  border-radius: 8px;
+  width: 94px;
+  height: 32px;
+  line-height: 31px;
+  text-align: center;
+  padding: 0;
+}
+.tickets .tickettextcolor {
+  color: #2a317d;
+}
+
+.tickets .ticketDisscription {
+  background: #ffffff;
+  padding: 24px 9px;
+}
+.tickets .ticket_list {
+  border: 1px solid #e0e0e0;
+  background: #ffffff;
+  padding: 16px;
+  border-radius: 4px;
+  max-width: 362px;
+}
+.tickets .bgwhitebtn {
+  background: #ffffff;
+  box-shadow: 0px 4px 31px rgb(13 165 216 / 24%);
+  border-radius: 131px;
+  padding: 10px 28px 10px 28px;
+  border: none;
+  margin-right: 11px;
+}
+.tickets .bgwhitebtn:hover {
+  background: #ffffff;
+  color: #2a317d;
+}
+/*double css*/
+.tickets .pad-15-16 {
+  padding: 15px 0 15px 16px !important;
+}
+.tickets .pad-14-15-16 {
+  padding: 14px 0px 15px 16px !important;
+}
+.tickets .bgtr {
+  background: #e8f6ff;
+}
+.tickets .colorWhite {
+  color: #fff;
+}
+.tickets .gradientBtn:hover {
+  color: #fff;
+}
+.tickets .ticket-form {
+  max-width: 700px;
+  margin: 0 auto;
+  margin-bottom: 32px;
+}
+.tickets .ticket-form label {
+  font-weight: 600;
+  color: #777777;
+  font-size: 16px;
+}
+.tickets .ticket-form .row.form-group {
+  align-items: center;
+}
+.tickets .pad-14-10-15-16 {
+  padding: 14px 10px 15px 16px !important;
+}
+.tickets .bgWhitebutton:hover {
+  color: #29317d;
+}
+.tickets .rounderSearchBar {
+  margin-left: 0;
+}
+.tickets .rounderSearchBar svg {
+  position: absolute;
+  left: 20px;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+.tickets .rounderSearchBar input {
+  background: #ffffff;
+  box-shadow: 0px -2px 32px rgb(101 101 101 / 16%);
+  border-radius: 131px;
+  padding: 15px 23px 15px 52px;
+  width: 433px;
+  height: 44px;
+}
+.buttona {
+  display: flex;
+  justify-content: end;
+}

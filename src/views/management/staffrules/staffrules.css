@@ -1,0 +1,225 @@
+.staff-rules .stationBreadcrumb .breadcrumb {
+  margin-bottom: 13px;
+}
+.staff-rules .filterSec {
+  background-color: #fff;
+  padding: 8px 16px;
+  margin-top: 24px;
+}
+
+.staff-rules .expandable .tableEve th {
+  font-size: 12px;
+}
+
+.staff-rules .marginLeft24 {
+  margin-left: 24px;
+}
+/*--dropdown--*/
+.staff-rules .checkbox svg {
+  margin-right: 22px;
+}
+.staff-rules .breadcrumb {
+  margin-top: 7px;
+}
+
+.staff-rules .stationcol .first {
+  list-style: none;
+  margin-right: 20px;
+}
+.staff-rules .stationcol ul {
+  list-style: none;
+}
+.staff-rules .stationcol ul li {
+  margin-bottom: 9px;
+}
+.staff-rules .margin3 {
+  margin-right: 3px;
+}
+.staff-rules td.address-filed {
+  padding-left: 9px;
+}
+.staff-rules .gradientBtn img {
+  margin-right: 8px;
+}
+.staff-rules .tagsBlock {
+  border-radius: 4px;
+  width: 70px;
+  height: 24px;
+  line-height: 24px;
+}
+.staff-rules .tagsBlock.active {
+  background: #bffab2;
+  color: #3c9e26;
+}
+.staff-rules .tagsBlock.inactive {
+  background: #ddd;
+  color: #777;
+}
+.staff-rules .listStyleNone {
+  margin: 0;
+  padding: 0;
+}
+.staff-rules .listStyleNone li {
+  list-style-type: none;
+}
+.staff-rules .statusList li {
+  margin-bottom: 8px;
+}
+.staff-rules .statusList li:last-child {
+  margin-bottom: 0px;
+}
+.staff-rules .statusList:last-child {
+  margin-left: 20px;
+}
+.staff-rules .priceSettingButton {
+  display: inline-block;
+  border: 1px solid rgba(41, 49, 125, 0.1);
+  border-radius: 131px;
+  padding: 5px 10px;
+  line-height: 24px;
+}
+.staff-rules .editDeleteIcon svg:last-child {
+  margin-left: 17px;
+}
+.staff-rules tr.expandable > td > .inner {
+  margin: 0;
+  overflow: hidden;
+}
+.staff-rules .checkNone svg {
+  visibility: hidden;
+}
+.staff-rules .borderBottomNone {
+  border-bottom: none !important;
+}
+.staff-rules .rounderSearchBar svg {
+  position: absolute;
+  left: 24px;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+.staff-rules .searchBarIcon .rounderSearchBar svg {
+  left: 9.5px;
+}
+.staff-rules .pad-11-4 {
+  padding: 11px 0px 4px 11px !important;
+}
+.staff-rules .pad-4-11 {
+  padding: 4px 0px 11px 11px !important;
+}
+.staff-rules .max-width-80 {
+  min-width: 80px;
+  max-width: 80px;
+}
+.staff-rules .searchBarIcon .rounderSearchBar input {
+  padding: 15px 23px 15px 25px;
+}
+.staff-rules .tableEve .rounderSearchBar input {
+  width: 100%;
+  height: 32px;
+  border-radius: 8px;
+}
+.staff-rules .max-width-200 {
+  max-width: 200px;
+  min-width: 200px;
+}
+.staff-rules .min-width-145 {
+  min-width: 145px;
+  max-width: 145px;
+}
+.staff-rules .min-width-185 {
+  min-width: 185px;
+  max-width: 185px;
+}
+.staff-rules .custom-select:focus {
+  box-shadow: none !important;
+}
+.staff-rules .min-width-200 {
+  min-width: 200px;
+  max-width: 200px;
+}
+.staff-rules .brdrNone {
+  border: none;
+}
+.staff-rules .max-width60 {
+  min-width: 60px;
+  max-width: 60px;
+}
+.staff-rules .max-width-95 {
+  min-width: 95px;
+  max-width: 95px;
+}
+.staff-rules .max-width120 {
+  min-width: 120px;
+  max-width: 120px;
+}
+.staff-rules .max-width57 {
+  min-width: 57px;
+  max-width: 57px;
+}
+.staff-rules .max-width-58 {
+  max-width: 58px;
+  min-width: 58px;
+}
+
+/*modal*/
+.staff-rules .add-staff input {
+  border: 1px solid #e9e9e9;
+  border-radius: 8px;
+  background: #ffffff;
+  padding: 13px 0 13px 16px;
+  height: 46px;
+  font-size: 16px;
+  font-weight: 400;
+}
+.staff-rules .add-staff select {
+  border: 1px solid #e9e9e9;
+  border-radius: 8px;
+  background: #ffffff;
+  padding: 13px 0 13px 16px;
+  height: 46px;
+  font-size: 16px;
+  font-weight: 400;
+}
+.staff-rules .add-staff input::placeholder {
+  color: rgba(119, 119, 119, 0.3);
+}
+.staff-rules .add-staff select::placeholder {
+  color: rgba(119, 119, 119, 0.3);
+}
+.staff-rules .add-staff option::placeholder {
+  color: rgba(119, 119, 119, 0.3);
+}
+.staff-rules .add-staff .form-group label {
+  color: #777777;
+  font-size: 16px;
+  font-weight: 600;
+}
+.staff-rules .add-staff button {
+  border: none;
+  color: #fff;
+  padding: 11px;
+  text-align: center;
+  width: 100%;
+  border-radius: 8px;
+}
+
+.staff-rules .add-staff {
+  background: #fff;
+}
+.staff-rules .mt-246 {
+  margin-top: 246px;
+}
+.staff-rules .mb-262 {
+  margin-bottom: 262px;
+}
+.colorWhite {
+  color: #fff;
+}
+.staff-rules
+  .mr-1.colorWhite.gradientBtn.font-size14.font-weight700.d-flex.align-items-center.btn.btn-primary-undefined:hover {
+  color: #ffffff;
+}
+.staff-rules .gradientBtn {
+  margin-right: 11px;
+}

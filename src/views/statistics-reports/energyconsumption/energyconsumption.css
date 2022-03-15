@@ -1,0 +1,71 @@
+.energycunsp .bg-gradient:hover {
+  color: #fff;
+}
+.energycunsp .custom-control-input {
+  position: inherit;
+}
+
+.energycunsp .custom-select {
+  height: 46px;
+  border-color: #cfd3dc;
+  border-radius: 0.75rem;
+}
+
+.energycunsp form-control:focus {
+  border-color: #cfd3dc !important;
+  outline: none;
+  box-shadow: none;
+}
+.energycunsp custom-select:focus {
+  border-color: #cfd3dc;
+  outline: none;
+  box-shadow: none;
+}
+.energycunsp logoSelect {
+  border-radius: 8px;
+  border: 1px solid #cfd3dc;
+  background-color: #fff;
+  padding: 7px;
+}
+
+.energycunsp breadcrumb {
+  margin-bottom: 0;
+}
+.energycunsp energy-cunsumptions {
+  background: #ffffff;
+  border-radius: 8px;
+  padding: 16px 15px 35px;
+}
+.energycunsp calender {
+  padding: 11px 15px 9px;
+  border: 1px solid #d8e1e9;
+  border-radius: 8px;
+}
+.energycunsp left {
+  border-left: 1px solid #d8e1e9;
+  padding: 13px 20px;
+  border-right: 1px solid #d8e1e9;
+  cursor: pointer;
+}
+.energycunsp .right {
+  cursor: pointer;
+}
+.energycunsp .energy-cunsumptions .eveSelect select {
+  font-size: 16px;
+  font-weight: 700;
+  color: #1d2337;
+}
+.energycunsp .mr-15-15 {
+  margin-left: -15px;
+  margin-right: -15px;
+}
+.energycunsp .calender {
+  padding: 11px 0 11px 11px;
+  border: 1px solid #d8e1e9;
+  border-radius: 8px;
+}
+.energycunsp .energy-cunsumptions {
+  background: #ffffff;
+  border-radius: 8px;
+  padding: 16px 15px 11px;
+}

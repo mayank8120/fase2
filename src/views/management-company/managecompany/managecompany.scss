@@ -1,0 +1,96 @@
+.stationBreadcrumb .breadcrumb {
+	margin-bottom: 13px;
+}
+.filterSec{
+    background-color: #fff;
+    padding: 8px 16px;
+    margin-top: 24px;
+}
+.filterSec .greenColor{
+    margin-left: 0.5rem;
+}
+.energyConsump img{
+    padding: 0 15px;
+}
+.marginLeft24{
+    margin-left:24px;
+}
+/*--dropdown--*/
+.checkbox svg {
+    margin-right: 22px;
+}
+.breadcrumb {
+ 
+    margin-top: 7px;
+}
+.tableEve td {
+    vertical-align: top;
+    padding: 18px 16px;
+}
+.stationcol .first {
+    list-style: none;
+    margin-right: 20px;
+}
+.stationcol ul {
+    list-style: none;
+
+}
+.stationcol ul li {
+    margin-bottom: 9px;
+}
+.margin3{
+    margin-right:3px;
+}
+td.address-filed {
+    padding-left: 9px;
+}
+.gradientBtn img {
+    margin-right: 8px;
+}
+.tagsBlock{    
+    border-radius: 4px;
+    width: 70px;
+    height: 24px;
+    line-height: 24px;
+}
+.tagsBlock.active{
+    background: #BFFAB2;
+    color: #3C9E26;
+}
+.tagsBlock.inactive{
+    background: #ddd;
+    color: #777;
+}
+.listStyleNone{
+    margin: 0;
+    padding: 0;
+}
+.listStyleNone li{
+    list-style-type: none;
+}
+.statusList li{
+    margin-bottom: 8px;
+}
+.statusList li:last-child{
+    margin-bottom: 0px;
+}
+.statusList:last-child{
+    margin-left: 20px;
+}
+.priceSettingButton{
+    display: inline-block;
+    border: 1px solid rgba(41, 49, 125, 0.1);
+    border-radius: 131px;
+    padding: 5px 10px;
+    line-height: 24px;
+}
+.editDeleteIcon svg:last-child{
+    margin-left: 17px;
+}
+tr.expandable > td > .inner {
+	margin: 0;
+	overflow: hidden;
+}
+.checkNone svg{
+    visibility: hidden;
+}

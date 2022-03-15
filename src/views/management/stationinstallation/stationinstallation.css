@@ -1,0 +1,120 @@
+.station-installation .marginLeft24 {
+  margin-left: 24px;
+}
+.station-installation .filterSection h5 {
+  margin-left: 8px;
+}
+.station-installation .rounderSearchBar {
+  margin-left: 9px;
+}
+.station-installation .tableEve h4 a {
+  color: #0da2d6;
+}
+.station-installation .tableEve th {
+  font-size: 14px;
+}
+.station-installation .rounderSearchBar input {
+  background: #ffffff;
+  box-shadow: 0px -2px 32px rgba(101, 101, 101, 0.16);
+  border-radius: 131px;
+  padding: 15px 23px 15px 52px;
+  width: 100;
+  height: 32px;
+}
+.station-installation .rounderSearchBar svg {
+  position: absolute;
+  left: 24px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.station-installation .statusTag {
+  display: inline-block;
+  border-radius: 4px;
+  width: 70px;
+  height: 24px;
+  line-height: 24px;
+  text-align: center;
+}
+.station-installation .statusTag.new {
+  background: #ff9a32;
+  color: #fff;
+}
+.station-installation .statusTag.solving {
+  background: rgba(17, 161, 253, 0.1);
+  color: #11a1fd;
+}
+.station-installation .statusTag.solved {
+  background: rgba(15, 238, 159, 0.1);
+  color: #0fee9f;
+}
+.station-installation .tagsBlock {
+  border-radius: 4px;
+  width: 70px;
+  height: 24px;
+  line-height: 24px;
+}
+.station-installation .tagsBlock.active {
+  background: #bffab2;
+  color: #3c9e26;
+}
+.station-installation .tagsBlock.inactive {
+  background: #ddd;
+  color: #777;
+}
+.station-installation .listStyleNone {
+  margin: 0;
+  padding: 0;
+}
+.station-installation .listStyleNone li {
+  list-style-type: none;
+}
+.station-installation .statusList li {
+  margin-bottom: 8px;
+}
+.station-installation .statusList li:last-child {
+  margin-bottom: 0px;
+}
+.statusList:last-child {
+  margin-left: 20px;
+}
+.station-installation .priceSettingButton {
+  display: inline-block;
+  border: 1px solid rgba(41, 49, 125, 0.1);
+  border-radius: 131px;
+  padding: 5px 10px;
+  line-height: 24px;
+}
+.station-installation .editDeleteIcon svg:last-child {
+  margin-left: 17px;
+}
+/*double css*/
+.station-installation .tableEve .rounderSearchBar input {
+  width: 100%;
+  height: 32px;
+  border-radius: 8px;
+}
+.station-installation .max-width-153 {
+  max-width: 153px;
+  min-width: 153px;
+}
+.station-installation .max-width-177 {
+  max-width: 177px;
+  min-width: 177px;
+}
+.station-installation .max-width-115 {
+  max-width: 115px;
+  min-width: 115px;
+}
+.station-installation .max-width-110 {
+  max-width: 110px;
+  min-width: 110px;
+}
+.station-installation .pad-11-4 {
+  padding: 11px 0px 4px 11px !important;
+}
+.station-installation .pad-4-11 {
+  padding: 4px 0px 11px 11px !important;
+}
+.station-installation .borderBottomNone {
+  border-bottom: none !important;
+}

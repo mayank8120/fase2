@@ -1,0 +1,215 @@
+.properties .marginLeft24 {
+  margin-left: 24px;
+}
+.properties .filterSection h5 {
+  margin-left: 8px;
+}
+.properties .rounderSearchBar {
+  margin-left: 0;
+}
+.properties .tableEve h4 a {
+  color: #0da5d8;
+}
+.properties .tableEve .rounderSearchBar input {
+  width: 100%;
+  height: 32px;
+  border-radius: 8px;
+}
+.properties .rounderSearchBar input {
+  background: #ffffff;
+  box-shadow: 0px -2px 32px rgba(101, 101, 101, 0.16);
+  border-radius: 131px;
+  padding: 15px 23px 15px 52px;
+  width: 433px;
+  height: 44px;
+}
+.properties .whiteBackground .rounderSearchBar input {
+  padding: 15px 23px 15px 25px;
+}
+.properties .rounderSearchBar svg {
+  position: absolute;
+  left: 20px;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+.properties .whiteBackground .rounderSearchBar svg {
+  left: 9.5px;
+}
+.properties .statusTag {
+  display: inline-block;
+  border-radius: 4px;
+  width: 70px;
+  height: 24px;
+  line-height: 24px;
+  text-align: center;
+}
+.properties .statusTag.new {
+  background: #ff9a32;
+  color: #fff;
+}
+.properties .statusTag.solving {
+  background: rgba(17, 161, 253, 0.1);
+  color: #11a1fd;
+}
+.properties .statusTag.solved {
+  background: rgba(15, 238, 159, 0.1);
+  color: #0fee9f;
+}
+.properties .tagsBlock {
+  border-radius: 4px;
+  width: 70px;
+  height: 24px;
+  line-height: 24px;
+}
+.properties .tagsBlock.active {
+  background: #bffab2;
+  color: #3c9e26;
+}
+.properties .tagsBlock.inactive {
+  background: #ddd;
+  color: #777;
+}
+.properties .listStyleNone {
+  margin: 0;
+  padding: 0;
+}
+.properties .listStyleNone li {
+  list-style-type: none;
+}
+.properties .statusList li {
+  margin-bottom: 8px;
+}
+.properties .statusList li:last-child {
+  margin-bottom: 0px;
+}
+.properties .statusList:last-child {
+  margin-left: 20px;
+}
+.properties .priceSettingButton {
+  display: inline-block;
+  border: 1px solid #0da5d8;
+  border-radius: 4px;
+  padding: 10px 20px;
+  line-height: 24px;
+}
+.properties .editDeleteIcon svg:last-child {
+  margin-left: 18px;
+}
+.properties .priceSettingButton a {
+  color: #0da2d6;
+}
+
+.properties .add-property .bt.btn {
+  padding: 13px 56px 13px 56px;
+}
+.properties .tableEve thead.whiteBackground {
+  background-color: #fff;
+  border-bottom: 5px solid #f3f7f9;
+}
+.properties .width56 {
+  max-width: 56px;
+}
+.properties .width128 {
+  max-width: 128px;
+}
+
+.properties .tableEve th {
+  font-size: 14px;
+  color: #252840;
+}
+.properties .opacity70 {
+  opacity: 0.7;
+}
+.properties .colorGrey7 {
+  color: #777;
+}
+.properties .min-width-280 {
+  min-width: 280px;
+}
+.properties .min-width-150 {
+  min-width: 150px;
+}
+.properties .min-width-153 {
+  min-width: 153px;
+}
+.properties .max-width-153 {
+  max-width: 153px;
+}
+.properties .stationLink:hover {
+  color: #252840;
+}
+.properties .borderBottomNone {
+  border-bottom: none !important;
+}
+.properties .padding-19-4-8 {
+  padding: 19px 0 8px 24px !important;
+}
+.properties .padding-4-8 {
+  padding: 0px 0px 12px 24px !important;
+}
+.properties .padding-19-22-24 {
+  padding: 19px 0px 22px 24px !important;
+}
+.properties .showbutton {
+  border: 1px solid #d8e1e9;
+  background: #ffff;
+  padding: 6px 24px;
+  font-size: 14px;
+  font-weight: 600;
+  color: #1d2337;
+  border-radius: 4px;
+  margin-left: 43px;
+}
+
+.properties .custom-control-input:checked ~ .custom-control-label::before {
+  color: #fff;
+  border-color: #e7edf1;
+  background-color: #fff;
+  box-shadow: none;
+}
+.properties .custom-control-input:focus ~ .custom-control-label::before {
+  box-shadow: none;
+  border-color: #e7edf1 !important;
+}
+.properties .custom-switch .custom-control-label::before {
+  width: 56px;
+  height: 32px;
+  border-radius: 119px;
+}
+.properties .custom-switch .custom-control-label::after {
+  width: 20px;
+  height: 20px;
+  background-color: #86a4ba;
+  border-radius: 50%;
+  background-color: #86a4ba;
+  left: 6px;
+}
+html:not([dir="rtl"]) .custom-switch .custom-control-label::after {
+  left: calc(-2.25rem + 3px);
+}
+.properties .custom-control-label::before {
+  top: 0;
+}
+.properties .custom-control-label::before {
+  border-color: #e7edf1;
+  box-shadow: none;
+}
+.properties
+  .custom-switch
+  .custom-control-input:checked
+  ~ .custom-control-label::after {
+  background-color: #fff;
+  -webkit-transform: translateX(0.75rem);
+  transform: translateX(1.8rem);
+  background: #0da5d8;
+  border: 1px solid rgba(63, 94, 240, 0.1);
+}
+.properties .tableEve input {
+  width: 62px;
+  border: 1px solid #e7edf1;
+  border-radius: 8px;
+}
+.properties .editDeleteIcon {
+  cursor: pointer;
+}

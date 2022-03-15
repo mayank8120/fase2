@@ -1,0 +1,84 @@
+/*--dashboard--*/
+
+.gradientBtn:last-child {
+  margin-right: 0px;
+}
+.revenueBox {
+  padding: 16px 16px 16px !important;
+}
+.dd #safe_id_4n0wrqovw5o {
+  height: 122px !important;
+}
+.skytxtolor {
+  color: #11a1fd;
+}
+.statementBox {
+  padding: 16px 16px 24px !important;
+}
+.gradientBtn:focus {
+  box-shadow: none;
+}
+.gradientBtn img {
+  margin-right: 4px;
+}
+.cardList {
+  border: none;
+  padding: 16px;
+}
+.greyCircle {
+  display: inline-block;
+  width: 44px;
+  height: 44px;
+  background-color: rgba(45, 63, 142, 0.05);
+  border-radius: 50%;
+  text-align: center;
+  line-height: 41px;
+  margin-right: 11px;
+}
+.listingBlock .list-group-item {
+  padding: 12px;
+  border-radius: 8px;
+  border: 1px solid #e5e9f5;
+  margin-top: 17px;
+}
+.listingBlock .list-group-item h5 {
+  margin-top: 9px;
+}
+.listingBlock .list-group-item p {
+  margin-top: 8px;
+}
+.statusBlock {
+  display: inline-block;
+  padding: 4px 8px;
+  line-height: 14px;
+  border-radius: 4px;
+}
+.statusBlock.new {
+  background: #ff9a32;
+  color: #fff;
+}
+.statusBlock.solving {
+  background: rgba(17, 161, 253, 0.1);
+  color: #11a1fd;
+}
+.statusBlock.solved {
+  background: rgba(15, 238, 159, 0.1);
+  color: #0fee9f;
+}
+.ml--30 {
+  margin-left: -30px;
+}
+.sdd canvas {
+  width: 168px !important;
+  height: 168px !important;
+}
+.dd canvas {
+  height: 86px !important;
+}
+
+.borderTopNone {
+  border-top: none;
+}
+.cs canvas {
+  height: 93px !important;
+}

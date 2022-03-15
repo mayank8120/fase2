@@ -1,0 +1,153 @@
+.app-users .stationBreadcrumb .breadcrumb {
+  margin-bottom: 13px;
+}
+.app-users .filterSec {
+  background-color: #fff;
+  padding: 8px 16px;
+  margin-top: 24px;
+}
+
+.app-users .expandable .tableEve th {
+  font-size: 12px;
+}
+
+.app-users .energyConsump img {
+  padding: 0 15px;
+}
+.app-users .marginLeft24 {
+  margin-left: 24px;
+}
+/*--dropdown--*/
+.app-users .checkbox svg {
+  margin-right: 22px;
+}
+.app-users .breadcrumb {
+  margin-top: 7px;
+}
+
+.app-users .stationcol .first {
+  list-style: none;
+  margin-right: 20px;
+}
+.app-users .stationcol ul {
+  list-style: none;
+}
+.stationcol ul li {
+  margin-bottom: 9px;
+}
+.app-users .margin3 {
+  margin-right: 3px;
+}
+.app-users td.address-filed {
+  padding-left: 9px;
+}
+.app-users .gradientBtn img {
+  margin-right: 8px;
+}
+.app-users .tagsBlock {
+  border-radius: 4px;
+  width: 70px;
+  height: 24px;
+  line-height: 24px;
+}
+.app-users .tagsBlock.active {
+  background: #bffab2;
+  color: #3c9e26;
+}
+.app-users .tagsBlock.inactive {
+  background: #ddd;
+  color: #777;
+}
+.app-users .listStyleNone {
+  margin: 0;
+  padding: 0;
+}
+.app-users .listStyleNone li {
+  list-style-type: none;
+}
+.app-users .statusList li {
+  margin-bottom: 8px;
+}
+.app-users .statusList li:last-child {
+  margin-bottom: 0px;
+}
+.app-users .statusList:last-child {
+  margin-left: 20px;
+}
+.app-users .priceSettingButton {
+  display: inline-block;
+  border: 1px solid rgba(41, 49, 125, 0.1);
+  border-radius: 131px;
+  padding: 5px 10px;
+  line-height: 24px;
+}
+.app-users .editDeleteIcon svg:last-child {
+  margin-left: 17px;
+}
+.app-users tr.expandable > td > .inner {
+  margin: 0;
+  overflow: hidden;
+}
+.app-users .checkNone svg {
+  visibility: hidden;
+}
+.app-users .rounderSearchBar input {
+  background: #ffffff;
+  box-shadow: 0px -2px 32px rgba(101, 101, 101, 0.16);
+  border-radius: 131px;
+  padding: 15px 23px 15px 52px;
+  width: 433px;
+  height: 44px;
+}
+.app-users .rounderSearchBar svg {
+  position: absolute;
+  left: 24px;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+.app-users .rounderSearchBar {
+  margin-left: 9px;
+}
+.app-users .tableEve .rounderSearchBar input {
+  width: 100%;
+  height: 32px;
+  border-radius: 8px;
+}
+.app-users .searchBarIcon .rounderSearchBar svg {
+  left: 9.5px;
+}
+.app-users .max-width-97 {
+  max-width: 97px;
+  min-width: 97px;
+}
+.app-users .searchBarIcon .rounderSearchBar input {
+  padding: 15px 23px 15px 25px;
+}
+.app-users .borderBottomNone {
+  border-bottom: none !important;
+}
+.app-users .max-width-224 {
+  max-width: 224px;
+  min-width: 224px;
+}
+.app-users .min-width-145 {
+  max-width: 145px;
+  min-width: 145px;
+}
+.app-users .filterSection h5 {
+  margin-left: 8px;
+}
+.app-users .pad-11-4 {
+  padding: 11px 0px 4px 11px !important;
+}
+.app-users .pad-4-11 {
+  padding: 4px 0px 11px 11px !important;
+}
+.app-users .brdrNone {
+  border: none;
+}
+.app-users .min-width-115 {
+  max-width: 115px;
+  min-width: 115px;
+}

@@ -1,0 +1,26 @@
+.breadcrumb {
+  margin-bottom: 0;
+}
+.tableEve th {
+  font-weight: 700;
+}
+.tableEve td {
+  padding: 16px 16px;
+}
+.greyBackground {
+  background-color: #f5f7ff;
+}
+.brdrNone {
+  border-bottom: none !important;
+}
+.greyBackground td {
+  padding: 8px 16px;
+}
+.tableEve th {
+  padding: 11px 0px 11px 16px;
+}
+.form-check-input {
+  margin-top: 0rem;
+  width: 24px;
+  height: 24px;
+}

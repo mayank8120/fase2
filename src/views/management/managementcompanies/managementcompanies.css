@@ -1,0 +1,204 @@
+.managemanagement .stationBreadcrumb .breadcrumb {
+  margin-bottom: 13px;
+}
+.managemanagement .filterSec {
+  background-color: #fff;
+  padding: 8px 16px;
+  margin-top: 24px;
+}
+
+.managemanagement .marginLeft24 {
+  margin-left: 24px;
+}
+/*--dropdown--*/
+.managemanagement .checkbox svg {
+  margin-right: 22px;
+}
+.managemanagement .breadcrumb {
+  margin-top: 7px;
+}
+
+.managemanagement .stationcol .first {
+  list-style: none;
+}
+.managemanagement .stationcol ul {
+  list-style: none;
+}
+.managemanagement .stationcol ul li {
+  margin-bottom: 9px;
+}
+.managemanagement .margin3 {
+  margin-right: 3px;
+}
+.managemanagement td.address-filed {
+  padding-left: 9px;
+}
+.managemanagement .gradientBtn img {
+  margin-right: 8px;
+}
+
+.managemanagement .listStyleNone {
+  margin: 0;
+  padding: 0;
+}
+.managemanagement .listStyleNone li {
+  list-style-type: none;
+}
+.managemanagement .statusList li {
+  margin-bottom: 8px;
+}
+.managemanagement .statusList li:last-child {
+  margin-bottom: 0px;
+}
+.managemanagement .statusList:last-child {
+  margin-left: 20px;
+}
+.managemanagement .priceSettingButton {
+  display: inline-block;
+  border: 1px solid #0da5d8;
+  border-radius: 4px;
+  padding: 6px 24px;
+  line-height: 24px;
+}
+.managemanagement .editDeleteIcon svg:last-child {
+  margin-left: 17px;
+}
+.managemanagement tr.expandable > td > .inner {
+  margin: 0;
+  overflow: hidden;
+}
+.managemanagement .checkNone svg {
+  visibility: hidden;
+}
+.managemanagement .tableEve td a:hover {
+  color: #0da2d6;
+}
+.managemanagement .borderBottomNone {
+  border-bottom: none !important;
+}
+.managemanagement .rounderSearchBar svg {
+  position: absolute;
+
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+.managemanagement .tableEve .rounderSearchBar input {
+  width: 100%;
+  height: 32px;
+  border-radius: 8px;
+}
+.managemanagement .searchBarIcon .rounderSearchBar input {
+  padding: 15px 23px 15px 25px;
+}
+.managemanagement .rounderSearchBar svg {
+  left: 9.5px;
+}
+.managemanagement .max-width-97 {
+  max-width: 97px;
+  min-width: 97px;
+}
+.managemanagement .paddingSearchHead {
+  padding: 11px 16px 4px 16px !important;
+}
+.managemanagement .paddingSearchHead2 {
+  padding: 4px 0 11px 16px !important;
+}
+.managemanagement .max-width-304 {
+  max-width: 304px;
+  min-width: 304px;
+}
+.managemanagement .max-width-145 {
+  max-width: 145px;
+  min-width: 145px;
+}
+.managemanagement .max-width-60 {
+  max-width: 60px;
+  min-width: 60px;
+}
+.managemanagement .tagsBlock {
+  border-radius: 4px;
+  width: 70px;
+  height: 24px;
+  line-height: 24px;
+}
+.managemanagement .tagsBlock.active {
+  background: #bffab2;
+  color: #3c9e26;
+}
+.managemanagement .tagsBlock.inactive {
+  background: #ddd;
+  color: #777;
+}
+.managemanagement .padding-19-4-8 {
+  padding: 19px 0 8px 24px !important;
+}
+.managemanagement .min-width-150 {
+  min-width: 150px;
+}
+.managemanagement .padding-4-8 {
+  padding: 0px 0px 12px 24px !important;
+}
+.managemanagement .width128 {
+  max-width: 128px;
+}
+.managemanagement .width56 {
+  max-width: 56px;
+}
+.managemanagement .showbutton {
+  border: 1px solid #d8e1e9;
+  background: #ffff;
+  padding: 6px 24px;
+  font-size: 14px;
+  font-weight: 600;
+  color: #1d2337;
+  border-radius: 4px;
+  margin-left: 43px;
+}
+
+.managemanagement .custom-switch .custom-control-label::before {
+  width: 56px;
+  height: 32px;
+  border-radius: 119px;
+  color: #fff;
+  border-color: #e7edf1;
+  background-color: #fff;
+  box-shadow: none;
+}
+
+.managemanagement .custom-control-label::before {
+  border-color: #e7edf1;
+}
+.managemanagement .custom-control-label::before {
+  top: 0;
+}
+html:not([dir="rtl"]) .custom-switch .custom-control-label::after {
+  left: -1.5rem;
+}
+.managemanagement .custom-switch .custom-control-label::after {
+  width: 20px;
+  height: 20px;
+  background-color: #0da5d8;
+  border-radius: 50%;
+  background-color: #86a4ba;
+  left: 6px;
+}
+.managemanagement .custom-control-input:focus ~ .custom-control-label::before {
+  box-shadow: none;
+  border-color: #e7edf1 !important;
+}
+.managemanagement .padding-19-22-24 {
+  padding: 19px 0px 22px 24px !important;
+}
+.managemanagement
+  .custom-switch
+  .custom-control-input:checked
+  ~ .custom-control-label::after {
+  background-color: #0da5d8;
+  -webkit-transform: translateX(0.75rem);
+  transform: translateX(0.75rem);
+}
+
+.managemanagement .tableEve h4 a {
+  color: #0da5d8;
+}
